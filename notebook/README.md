@@ -1,0 +1,1 @@
+This project performs local Large Language Model (LLM) inference using Ollama and the Llama 3.2 model. It reads prompts from a CSV file, sends them to the local LLM, and saves the generated responses in different output formats.
